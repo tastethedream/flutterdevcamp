@@ -1,6 +1,6 @@
 # travelapp
 
-A new Flutter project.
+Flutter project from session one of Flutter DevCamp.
 
 ## Getting Started
 
